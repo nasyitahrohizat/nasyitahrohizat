@@ -17,7 +17,7 @@ C++, MySQL, NetBeans, CNN, Java JSP & Servlet
 
 - Equipment Booking System — A database-based equipment booking system developed as part of a university project.
 
-- NutriBudget — A Fuzzy Meal Recommendation System for University Students
+- [NutriBudget](https://github.com/nasyitahrohizat/fyp-project) — A Fuzzy Meal Recommendation System for University Students.
 
 ## Contact
 - Email: nasyitahrohizat@gmail.com
